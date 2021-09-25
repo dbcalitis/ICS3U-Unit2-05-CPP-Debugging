@@ -11,7 +11,7 @@ int variableX = 25;
 
 void localVariable() {
     // this shows what happens with local variables
-    
+
     int variableX = 10;
     int variableY = 30;
     int variableZ = variableX + variableY;
