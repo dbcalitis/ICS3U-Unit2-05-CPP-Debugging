@@ -3,6 +3,7 @@
 // Created by: Daria Bernice Calitis
 // Created on: Sept 2021
 // This program shows how local and global variables work
+
 #include <iostream>
 
 // global variable
@@ -10,6 +11,7 @@ int variableX = 25;
 
 void localVariable() {
     // this shows what happens with local variables
+    
     int variableX = 10;
     int variableY = 30;
     int variableZ = variableX + variableY;
